@@ -368,6 +368,34 @@
     ],
     "quarterlyReports": [
         {
+            "fiscalDateEnding": "2024-09-30",
+            "reportedCurrency": "USD",
+            "grossProfit": "4997000000",
+            "totalRevenue": "25182000000",
+            "costOfRevenue": "20185000000",
+            "costofGoodsAndServicesSold": "101000000",
+            "operatingIncome": "2717000000",
+            "sellingGeneralAndAdministrative": "1186000000",
+            "researchAndDevelopment": "1039000000",
+            "operatingExpenses": "2280000000",
+            "investmentIncomeNet": "429000000",
+            "netInterestIncome": "None",
+            "interestIncome": "None",
+            "interestExpense": "-92000000",
+            "nonInterestIncome": "25182000000",
+            "otherNonOperatingIncome": "-270000000",
+            "depreciation": "1050000000",
+            "depreciationAndAmortization": "1348000000",
+            "incomeBeforeTax": "2768000000",
+            "incomeTaxExpense": "601000000",
+            "interestAndDebtExpense": "92000000",
+            "netIncomeFromContinuingOperations": "2183000000",
+            "comprehensiveIncomeNetOfTax": "2620000000",
+            "ebit": "2717000000",
+            "ebitda": "2717000000",
+            "netIncome": "2167000000"
+        },
+        {
             "fiscalDateEnding": "2024-06-30",
             "reportedCurrency": "USD",
             "grossProfit": "4578000000",
@@ -392,7 +420,7 @@
             "netIncomeFromContinuingOperations": "1494000000",
             "comprehensiveIncomeNetOfTax": "1410000000",
             "ebit": "1957000000",
-            "ebitda": "3505000000",
+            "ebitda": "3251000000",
             "netIncome": "1478000000"
         },
         {
@@ -420,7 +448,7 @@
             "netIncomeFromContinuingOperations": "1144000000",
             "comprehensiveIncomeNetOfTax": "873000000",
             "ebit": "1614000000",
-            "ebitda": "2417000000",
+            "ebitda": "2875000000",
             "netIncome": "1129000000"
         },
         {
