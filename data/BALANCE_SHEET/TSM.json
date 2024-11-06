@@ -805,7 +805,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2024-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "totalAssets": "6165660000000",
             "totalCurrentAssets": "2710450000000",
             "cashAndCashEquivalentsAtCarryingValue": "None",
@@ -841,11 +841,11 @@
             "treasuryStock": "None",
             "retainedEarnings": "None",
             "commonStock": "None",
-            "commonStockSharesOutstanding": "167658762900"
+            "commonStockSharesOutstanding": "5186076048"
         },
         {
             "fiscalDateEnding": "2024-06-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "totalAssets": "5982364014000",
             "totalCurrentAssets": "2591658093000",
             "cashAndCashEquivalentsAtCarryingValue": "1799127351000",

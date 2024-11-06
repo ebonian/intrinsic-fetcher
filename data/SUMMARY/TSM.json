@@ -1805,7 +1805,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2024-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "grossProfit": "439345000000",
             "totalRevenue": "759692000000",
             "costOfRevenue": "320347000000",
@@ -1865,7 +1865,7 @@
             "treasuryStock": "None",
             "retainedEarnings": "None",
             "commonStock": "None",
-            "commonStockSharesOutstanding": "167658762900"
+            "commonStockSharesOutstanding": "5186076048"
         },
         {
             "fiscalDateEnding": "2024-06-30",
