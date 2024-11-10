@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-stock_symbols = ['AAPL', 'MSFT', 'TSLA', 'V', 'GOOG', 'ASML', 'GFS', 'AMD', 'NET', 'AMZN', 'TSM', 'QCOM'] 
+stock_symbols = ['AAPL', 'MSFT', 'TSLA', 'V', 'GOOG', 'ASML', 'GFS', 'AMD', 'NET', 'AMZN', 'TSM', 'QCOM', 'NVDA'] 
 
 DATA_DIR = 'data'
 FUNCTIONS = ['INCOME_STATEMENT', 'BALANCE_SHEET', 'CASH_FLOW']
