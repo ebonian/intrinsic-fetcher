@@ -21,7 +21,7 @@
             "paymentsForRepurchaseOfEquity": "4121000000",
             "paymentsForRepurchaseOfPreferredStock": "None",
             "dividendPayout": "3687000000",
-            "dividendPayoutCommonStock": "None",
+            "dividendPayoutCommonStock": "3687000000",
             "dividendPayoutPreferredStock": "None",
             "proceedsFromIssuanceOfCommonStock": "383000000",
             "proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet": "0",
