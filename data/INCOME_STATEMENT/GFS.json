@@ -8,14 +8,14 @@
             "totalRevenue": "7392000000",
             "costOfRevenue": "5291000000",
             "costofGoodsAndServicesSold": "5291000000",
-            "operatingIncome": "1200000000",
+            "operatingIncome": "1129000000",
             "sellingGeneralAndAdministrative": "448000000",
             "researchAndDevelopment": "428000000",
             "operatingExpenses": "901000000",
             "investmentIncomeNet": "None",
             "netInterestIncome": "2000000",
             "interestIncome": "149000000",
-            "interestExpense": "101000000",
+            "interestExpense": "137000000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
             "depreciation": "None",
@@ -53,8 +53,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "1446000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "1283000000",
-            "ebitda": "2906000000",
+            "ebit": "1649000000",
+            "ebitda": "3272000000",
             "netIncome": "1448000000"
         },
         {
@@ -81,8 +81,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "-254000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "-67844000",
-            "ebitda": "1551000000",
+            "ebit": "-61959000",
+            "ebitda": "1556885000",
             "netIncome": "-254000000"
         },
         {
@@ -109,8 +109,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "-1350860000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "-1502010000",
-            "ebitda": "1020504000",
+            "ebit": "-1208740000",
+            "ebitda": "1313774000",
             "netIncome": "-1350860000"
         },
         {
@@ -223,8 +223,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "155000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "160000000",
-            "ebitda": "562000000",
+            "ebit": "167000000",
+            "ebitda": "569000000",
             "netIncome": "155000000"
         },
         {
@@ -279,8 +279,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "278000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "333000000",
-            "ebitda": "735000000",
+            "ebit": "269000000",
+            "ebitda": "671000000",
             "netIncome": "277000000"
         },
         {
