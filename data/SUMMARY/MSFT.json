@@ -1040,7 +1040,7 @@
             "currentAccountsPayable": "4175000000",
             "deferredRevenue": "20059000000",
             "currentDebt": "1231000000",
-            "shortTermDebt": "1231000000",
+            "shortTermDebt": "-2644000000",
             "totalNonCurrentLiabilities": "30428000000",
             "capitalLeaseObligations": "None",
             "longTermDebt": "11900000000",
@@ -2112,7 +2112,7 @@
             "currentAccountsPayable": "19000000000",
             "deferredRevenue": "96816000000",
             "currentDebt": "2749000000",
-            "shortTermDebt": "2749000000",
+            "shortTermDebt": "6037000000",
             "totalNonCurrentLiabilities": "103216000000",
             "capitalLeaseObligations": "11489000000",
             "longTermDebt": "49781000000",
@@ -2382,7 +2382,7 @@
             "currentAccountsPayable": "14832000000",
             "deferredRevenue": "82030000000",
             "currentDebt": "3249000000",
-            "shortTermDebt": "3249000000",
+            "shortTermDebt": "6180000000",
             "totalNonCurrentLiabilities": "102912000000",
             "capitalLeaseObligations": "10050000000",
             "longTermDebt": "53288000000",
@@ -2472,7 +2472,7 @@
             "currentAccountsPayable": "15163000000",
             "deferredRevenue": "88282000000",
             "currentDebt": "8072000000",
-            "shortTermDebt": "8072000000",
+            "shortTermDebt": "10825000000",
             "totalNonCurrentLiabilities": "103134000000",
             "capitalLeaseObligations": "9629000000",
             "longTermDebt": "58146000000",
@@ -5442,7 +5442,7 @@
             "currentAccountsPayable": "4532000000",
             "deferredRevenue": "17905000000",
             "currentDebt": "2246000000",
-            "shortTermDebt": "2246000000",
+            "shortTermDebt": "2816000000",
             "totalNonCurrentLiabilities": "34588000000",
             "capitalLeaseObligations": "None",
             "longTermDebt": "14200000000",
@@ -6408,7 +6408,7 @@
             "netIncomeFromContinuingOperations": "12869000000",
             "comprehensiveIncomeNetOfTax": "4518000000",
             "ebit": "6061000000",
-            "ebitda": "7052000000",
+            "ebitda": "7714000000",
             "netIncome": "4518000000",
             "totalAssets": "86113000000",
             "totalCurrentAssets": "55676000000",
@@ -6498,7 +6498,7 @@
             "netIncomeFromContinuingOperations": "4006000000",
             "comprehensiveIncomeNetOfTax": "4006000000",
             "ebit": "5379000000",
-            "ebitda": "6071000000",
+            "ebitda": "6073000000",
             "netIncome": "4006000000",
             "totalAssets": "84910000000",
             "totalCurrentAssets": "54518000000",
@@ -6588,7 +6588,7 @@
             "netIncomeFromContinuingOperations": "6662000000",
             "comprehensiveIncomeNetOfTax": "6662000000",
             "ebit": "8921000000",
-            "ebitda": "9325000000",
+            "ebitda": "9536000000",
             "netIncome": "6662000000",
             "totalAssets": "82096000000",
             "totalCurrentAssets": "52487000000",
@@ -6678,7 +6678,7 @@
             "netIncomeFromContinuingOperations": "3574000000",
             "comprehensiveIncomeNetOfTax": "3574000000",
             "ebit": "4803000000",
-            "ebitda": "5331000000",
+            "ebitda": "5449000000",
             "netIncome": "3574000000",
             "totalAssets": "81612000000",
             "totalCurrentAssets": "52231000000",
@@ -6768,7 +6768,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "3987000000",
-            "ebitda": "4673000000",
+            "ebitda": "4668000000",
             "netIncome": "3045000000"
         },
         {
@@ -6796,7 +6796,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "4438000000",
-            "ebitda": "5654000000",
+            "ebitda": "4438000000",
             "netIncome": "2977000000"
         },
         {
@@ -6824,7 +6824,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "5939000000",
-            "ebitda": "7047000000",
+            "ebitda": "5939000000",
             "netIncome": "4174000000"
         },
         {
@@ -6852,7 +6852,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "5999000000",
-            "ebitda": "6799000000",
+            "ebitda": "5999000000",
             "netIncome": "4373000000"
         },
         {
@@ -6879,8 +6879,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "5617000000",
-            "ebitda": "6225000000",
+            "ebit": "5684000000",
+            "ebitda": "6292000000",
             "netIncome": "4297000000"
         },
         {
@@ -6907,8 +6907,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "4234000000",
-            "ebitda": "4766000000",
+            "ebit": "3877000000",
+            "ebitda": "4409000000",
             "netIncome": "4388000000"
         },
         {
@@ -6935,8 +6935,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "6348000000",
-            "ebitda": "6829000000",
+            "ebit": "6000000000",
+            "ebitda": "6481000000",
             "netIncome": "4707000000"
         },
         {
@@ -6963,8 +6963,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "5859000000",
-            "ebitda": "6294000000",
+            "ebit": "5483000000",
+            "ebitda": "5918000000",
             "netIncome": "4289000000"
         }
     ]
