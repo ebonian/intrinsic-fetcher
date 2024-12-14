@@ -4218,7 +4218,7 @@
             "proceedsFromIssuanceOfCommonStock": "None",
             "proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet": "0",
             "proceedsFromIssuanceOfPreferredStock": "None",
-            "proceedsFromRepurchaseOfEquity": "-230000000",
+            "proceedsFromRepurchaseOfEquity": "-210000000",
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "-174000000",
             "changeInExchangeRate": "None"
@@ -4308,7 +4308,7 @@
             "proceedsFromIssuanceOfCommonStock": "None",
             "proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet": "None",
             "proceedsFromIssuanceOfPreferredStock": "None",
-            "proceedsFromRepurchaseOfEquity": "-126000000",
+            "proceedsFromRepurchaseOfEquity": "-29000000",
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "1514000000",
             "changeInExchangeRate": "None"
@@ -6307,7 +6307,7 @@
             "investmentIncomeNet": "4461000",
             "netInterestIncome": "None",
             "interestIncome": "None",
-            "interestExpense": "14596000",
+            "interestExpense": "3127000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "4794000",
             "depreciation": "None",
@@ -6667,7 +6667,7 @@
             "investmentIncomeNet": "5768000",
             "netInterestIncome": "None",
             "interestIncome": "None",
-            "interestExpense": "20667000",
+            "interestExpense": "3320000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "2691000",
             "depreciation": "None",
@@ -7006,7 +7006,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "-155392000",
-            "ebitda": "-105797000",
+            "ebitda": "-109086000",
             "netIncome": "-120929000"
         }
     ]

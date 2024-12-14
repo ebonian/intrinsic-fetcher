@@ -1949,7 +1949,7 @@
             "investmentIncomeNet": "4461000",
             "netInterestIncome": "None",
             "interestIncome": "None",
-            "interestExpense": "14596000",
+            "interestExpense": "3127000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "4794000",
             "depreciation": "None",
@@ -2061,7 +2061,7 @@
             "investmentIncomeNet": "5768000",
             "netInterestIncome": "None",
             "interestIncome": "None",
-            "interestExpense": "20667000",
+            "interestExpense": "3320000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "2691000",
             "depreciation": "None",
@@ -2240,7 +2240,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "-155392000",
-            "ebitda": "-105797000",
+            "ebitda": "-109086000",
             "netIncome": "-120929000"
         }
     ]
