@@ -191,7 +191,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2024-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "operatingCashflow": "375000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
