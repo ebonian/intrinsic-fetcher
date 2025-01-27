@@ -3,7 +3,7 @@
     "annualReports": [
         {
             "fiscalDateEnding": "2024-12-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "operatingCashflow": "1826177000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
@@ -625,7 +625,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2024-12-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "operatingCashflow": "620205000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
@@ -665,7 +665,7 @@
             "depreciationDepletionAndAmortization": "168229000000",
             "capitalExpenditures": "215006734000",
             "changeInReceivables": "None",
-            "changeInInventory": "None",
+            "changeInInventory": "-20393343000",
             "profitLoss": "None",
             "cashflowFromInvestment": "None",
             "cashflowFromFinancing": "-72715563000",
