@@ -33,12 +33,12 @@
             "currentLongTermDebt": "999000000",
             "longTermDebtNoncurrent": "10883000000",
             "shortLongTermDebtTotal": "14300000000",
-            "otherCurrentLiabilities": "67317000000",
+            "otherCurrentLiabilities": "64430000000",
             "otherNonCurrentLiabilities": "4694000000",
             "totalShareholderEquity": "325084000000",
             "treasuryStock": "None",
             "retainedEarnings": "245084000000",
-            "commonStock": "None",
+            "commonStock": "84800000000",
             "commonStockSharesOutstanding": "12211000000"
         },
         {
@@ -475,12 +475,12 @@
             "currentLongTermDebt": "999000000",
             "longTermDebtNoncurrent": "10883000000",
             "shortLongTermDebtTotal": "14300000000",
-            "otherCurrentLiabilities": "64195000000",
+            "otherCurrentLiabilities": "64430000000",
             "otherNonCurrentLiabilities": "4694000000",
             "totalShareholderEquity": "325084000000",
             "treasuryStock": "None",
             "retainedEarnings": "245084000000",
-            "commonStock": "None",
+            "commonStock": "84800000000",
             "commonStockSharesOutstanding": "12211000000"
         },
         {
@@ -560,7 +560,7 @@
             "totalShareholderEquity": "300753000000",
             "treasuryStock": "None",
             "retainedEarnings": "226033000000",
-            "commonStock": "12322000000",
+            "commonStock": "79732000000",
             "commonStockSharesOutstanding": "12322000000"
         },
         {
@@ -600,7 +600,7 @@
             "totalShareholderEquity": "292844000000",
             "treasuryStock": "None",
             "retainedEarnings": "219770000000",
-            "commonStock": "12381000000",
+            "commonStock": "77913000000",
             "commonStockSharesOutstanding": "12381000000"
         },
         {
