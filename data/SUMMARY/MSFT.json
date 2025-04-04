@@ -178,7 +178,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-30855000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "-152000000",
+            "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
         {
@@ -1970,7 +1970,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-4973000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "10887000000",
+            "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
         {
@@ -2060,7 +2060,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-5216000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "-7326000000",
+            "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
         {
@@ -2150,7 +2150,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-4998000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "9183000000",
+            "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
         {
@@ -2240,7 +2240,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-8296000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "1574000000",
+            "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
         {
@@ -6541,7 +6541,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "-2612000000",
             "changeInOperatingAssets": "4144000000",
-            "depreciationDepletionAndAmortization": "718000000",
+            "depreciationDepletionAndAmortization": "None",
             "capitalExpenditures": "758000000",
             "changeInReceivables": "4144000000",
             "changeInInventory": "260000000",
@@ -6631,7 +6631,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "-117000000",
             "changeInOperatingAssets": "-1947000000",
-            "depreciationDepletionAndAmortization": "694000000",
+            "depreciationDepletionAndAmortization": "None",
             "capitalExpenditures": "408000000",
             "changeInReceivables": "-1947000000",
             "changeInInventory": "-77000000",
@@ -6721,7 +6721,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "-623000000",
             "changeInOperatingAssets": "2789000000",
-            "depreciationDepletionAndAmortization": "615000000",
+            "depreciationDepletionAndAmortization": "None",
             "capitalExpenditures": "376000000",
             "changeInReceivables": "2789000000",
             "changeInInventory": "-558000000",
@@ -6811,7 +6811,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "1850000000",
             "changeInOperatingAssets": "-2748000000",
-            "depreciationDepletionAndAmortization": "646000000",
+            "depreciationDepletionAndAmortization": "None",
             "capitalExpenditures": "435000000",
             "changeInReceivables": "-2748000000",
             "changeInInventory": "419000000",
