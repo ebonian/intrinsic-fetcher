@@ -506,7 +506,7 @@
             "currentAccountsPayable": "4175000000",
             "deferredRevenue": "20059000000",
             "currentDebt": "1231000000",
-            "shortTermDebt": "-2644000000",
+            "shortTermDebt": "1231000000",
             "totalNonCurrentLiabilities": "30428000000",
             "capitalLeaseObligations": "None",
             "longTermDebt": "11900000000",

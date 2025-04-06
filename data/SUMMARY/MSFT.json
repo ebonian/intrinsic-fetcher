@@ -178,7 +178,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-30855000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "None",
+            "changeInCashAndCashEquivalents": "-152000000",
             "changeInExchangeRate": "None"
         },
         {
@@ -1040,7 +1040,7 @@
             "currentAccountsPayable": "4175000000",
             "deferredRevenue": "20059000000",
             "currentDebt": "1231000000",
-            "shortTermDebt": "-2644000000",
+            "shortTermDebt": "1231000000",
             "totalNonCurrentLiabilities": "30428000000",
             "capitalLeaseObligations": "None",
             "longTermDebt": "11900000000",
@@ -1970,7 +1970,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-4973000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "None",
+            "changeInCashAndCashEquivalents": "10887000000",
             "changeInExchangeRate": "None"
         },
         {
@@ -2060,7 +2060,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-5216000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "None",
+            "changeInCashAndCashEquivalents": "-7326000000",
             "changeInExchangeRate": "None"
         },
         {
@@ -2150,7 +2150,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-4998000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "None",
+            "changeInCashAndCashEquivalents": "9183000000",
             "changeInExchangeRate": "None"
         },
         {
@@ -2240,7 +2240,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-8296000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "changeInCashAndCashEquivalents": "None",
+            "changeInCashAndCashEquivalents": "1574000000",
             "changeInExchangeRate": "None"
         },
         {
@@ -6541,7 +6541,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "-2612000000",
             "changeInOperatingAssets": "4144000000",
-            "depreciationDepletionAndAmortization": "None",
+            "depreciationDepletionAndAmortization": "718000000",
             "capitalExpenditures": "758000000",
             "changeInReceivables": "4144000000",
             "changeInInventory": "260000000",
@@ -6631,7 +6631,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "-117000000",
             "changeInOperatingAssets": "-1947000000",
-            "depreciationDepletionAndAmortization": "None",
+            "depreciationDepletionAndAmortization": "694000000",
             "capitalExpenditures": "408000000",
             "changeInReceivables": "-1947000000",
             "changeInInventory": "-77000000",
@@ -6721,7 +6721,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "-623000000",
             "changeInOperatingAssets": "2789000000",
-            "depreciationDepletionAndAmortization": "None",
+            "depreciationDepletionAndAmortization": "615000000",
             "capitalExpenditures": "376000000",
             "changeInReceivables": "2789000000",
             "changeInInventory": "-558000000",
@@ -6811,7 +6811,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "1850000000",
             "changeInOperatingAssets": "-2748000000",
-            "depreciationDepletionAndAmortization": "None",
+            "depreciationDepletionAndAmortization": "646000000",
             "capitalExpenditures": "435000000",
             "changeInReceivables": "-2748000000",
             "changeInInventory": "419000000",
@@ -6886,7 +6886,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "4438000000",
-            "ebitda": "4438000000",
+            "ebitda": "5102000000",
             "netIncome": "2977000000"
         },
         {
@@ -6914,7 +6914,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "5939000000",
-            "ebitda": "5939000000",
+            "ebitda": "6571000000",
             "netIncome": "4174000000"
         },
         {
@@ -6942,7 +6942,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "5999000000",
-            "ebitda": "5999000000",
+            "ebitda": "6584000000",
             "netIncome": "4373000000"
         },
         {
@@ -6997,8 +6997,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "3877000000",
-            "ebitda": "4409000000",
+            "ebit": "4409000000",
+            "ebitda": "4941000000",
             "netIncome": "4388000000"
         },
         {
@@ -7025,8 +7025,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "6000000000",
-            "ebitda": "6481000000",
+            "ebit": "6481000000",
+            "ebitda": "6962000000",
             "netIncome": "4707000000"
         },
         {
@@ -7053,8 +7053,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "5483000000",
-            "ebitda": "5918000000",
+            "ebit": "5918000000",
+            "ebitda": "6353000000",
             "netIncome": "4289000000"
         }
     ]

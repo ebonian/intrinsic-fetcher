@@ -2156,7 +2156,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "4438000000",
-            "ebitda": "4438000000",
+            "ebitda": "5102000000",
             "netIncome": "2977000000"
         },
         {
@@ -2184,7 +2184,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "5939000000",
-            "ebitda": "5939000000",
+            "ebitda": "6571000000",
             "netIncome": "4174000000"
         },
         {
@@ -2212,7 +2212,7 @@
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "5999000000",
-            "ebitda": "5999000000",
+            "ebitda": "6584000000",
             "netIncome": "4373000000"
         },
         {
@@ -2267,8 +2267,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "3877000000",
-            "ebitda": "4409000000",
+            "ebit": "4409000000",
+            "ebitda": "4941000000",
             "netIncome": "4388000000"
         },
         {
@@ -2295,8 +2295,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "6000000000",
-            "ebitda": "6481000000",
+            "ebit": "6481000000",
+            "ebitda": "6962000000",
             "netIncome": "4707000000"
         },
         {
@@ -2323,8 +2323,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "None",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "5483000000",
-            "ebitda": "5918000000",
+            "ebit": "5918000000",
+            "ebitda": "6353000000",
             "netIncome": "4289000000"
         }
     ]
