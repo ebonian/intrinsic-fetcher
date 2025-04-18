@@ -19,14 +19,14 @@
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
             "depreciation": "None",
-            "depreciationAndAmortization": "None",
+            "depreciationAndAmortization": "15311000000",
             "incomeBeforeTax": "119815000000",
             "incomeTaxExpense": "19697000000",
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "100118000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "None",
-            "ebitda": "112390000000",
+            "ebit": "120083000000",
+            "ebitda": "135394000000",
             "netIncome": "100118000000"
         },
         {
@@ -81,8 +81,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "59972000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "77858000000",
-            "ebitda": "91333000000",
+            "ebit": "71685000000",
+            "ebitda": "85160000000",
             "netIncome": "59972000000"
         },
         {
@@ -581,14 +581,14 @@
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
             "depreciation": "None",
-            "depreciationAndAmortization": "None",
+            "depreciationAndAmortization": "4205000000",
             "incomeBeforeTax": "32243000000",
             "incomeTaxExpense": "5707000000",
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "26536000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "None",
-            "ebitda": "30972000000",
+            "ebit": "32296000000",
+            "ebitda": "36501000000",
             "netIncome": "26536000000"
         },
         {
@@ -622,8 +622,8 @@
         {
             "fiscalDateEnding": "2024-06-30",
             "reportedCurrency": "USD",
-            "grossProfit": "49133000000",
-            "totalRevenue": "84640000000",
+            "grossProfit": "49235000000",
+            "totalRevenue": "84742000000",
             "costOfRevenue": "35507000000",
             "costofGoodsAndServicesSold": "35507000000",
             "operatingIncome": "27425000000",
