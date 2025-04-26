@@ -594,7 +594,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-03-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "operatingCashflow": "2156000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
