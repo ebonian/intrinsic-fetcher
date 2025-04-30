@@ -507,7 +507,7 @@
         },
         {
             "fiscalDateEnding": "2006-12-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "-615000",
             "totalRevenue": "None",
             "costOfRevenue": "615000",
