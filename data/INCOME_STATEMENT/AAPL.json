@@ -95,7 +95,7 @@
             "operatingIncome": "108949000000",
             "sellingGeneralAndAdministrative": "21973000000",
             "researchAndDevelopment": "21914000000",
-            "operatingExpenses": "43827000000",
+            "operatingExpenses": "43887000000",
             "investmentIncomeNet": "None",
             "netInterestIncome": "198000000",
             "interestIncome": "2843000000",
@@ -109,8 +109,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "94680000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "108949000000",
-            "ebitda": "120233000000",
+            "ebit": "111852000000",
+            "ebitda": "123136000000",
             "netIncome": "94680000000"
         },
         {
@@ -581,15 +581,15 @@
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
             "depreciation": "None",
-            "depreciationAndAmortization": "3080000000",
+            "depreciationAndAmortization": "2661000000",
             "incomeBeforeTax": "29310000000",
             "incomeTaxExpense": "4530000000",
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "24780000000",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "29589000000",
-            "ebitda": "32669000000",
-            "netIncome": "28780000000"
+            "ebitda": "32250000000",
+            "netIncome": "24780000000"
         },
         {
             "fiscalDateEnding": "2024-12-31",
