@@ -247,7 +247,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "1153000000",
             "changeInExchangeRate": "19000000",
-            "netIncome": "21204000000"
+            "netIncome": "25489000000"
         },
         {
             "fiscalDateEnding": "2016-06-30",
@@ -278,12 +278,12 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "915000000",
             "changeInExchangeRate": "-67000000",
-            "netIncome": "16798000000"
+            "netIncome": "20539000000"
         },
         {
             "fiscalDateEnding": "2015-06-30",
             "reportedCurrency": "USD",
-            "operatingCashflow": "29080000000",
+            "operatingCashflow": "29668000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
@@ -294,7 +294,7 @@
             "changeInInventory": "-272000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-23001000000",
-            "cashflowFromFinancing": "-9080000000",
+            "cashflowFromFinancing": "-9668000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
@@ -314,7 +314,7 @@
         {
             "fiscalDateEnding": "2014-06-30",
             "reportedCurrency": "USD",
-            "operatingCashflow": "32231000000",
+            "operatingCashflow": "32502000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
@@ -325,7 +325,7 @@
             "changeInInventory": "-161000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-18833000000",
-            "cashflowFromFinancing": "-8394000000",
+            "cashflowFromFinancing": "-8665000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
@@ -1644,7 +1644,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "-1755000000",
             "changeInExchangeRate": "12000000",
-            "netIncome": "4801000000"
+            "netIncome": "5486000000"
         },
         {
             "fiscalDateEnding": "2016-12-31",
@@ -1675,7 +1675,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "-5460000000",
             "changeInExchangeRate": "-18000000",
-            "netIncome": "5200000000"
+            "netIncome": "6267000000"
         },
         {
             "fiscalDateEnding": "2016-09-30",
@@ -1706,7 +1706,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "7418000000",
             "changeInExchangeRate": "10000000",
-            "netIncome": "4690000000"
+            "netIncome": "5667000000"
         },
         {
             "fiscalDateEnding": "2016-06-30",
@@ -1773,7 +1773,7 @@
         {
             "fiscalDateEnding": "2015-12-31",
             "reportedCurrency": "USD",
-            "operatingCashflow": "5598000000",
+            "operatingCashflow": "5618000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
@@ -1784,7 +1784,7 @@
             "changeInInventory": "1104000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-3328000000",
-            "cashflowFromFinancing": "-498000000",
+            "cashflowFromFinancing": "-518000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
@@ -1799,12 +1799,12 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "1754000000",
             "changeInExchangeRate": "-18000000",
-            "netIncome": "4998000000"
+            "netIncome": "5018000000"
         },
         {
             "fiscalDateEnding": "2015-09-30",
             "reportedCurrency": "USD",
-            "operatingCashflow": "8594000000",
+            "operatingCashflow": "8876000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
@@ -1815,7 +1815,7 @@
             "changeInInventory": "-937000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-5066000000",
-            "cashflowFromFinancing": "-3648000000",
+            "cashflowFromFinancing": "-3930000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
@@ -1830,7 +1830,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "-164000000",
             "changeInExchangeRate": "-44000000",
-            "netIncome": "4620000000"
+            "netIncome": "4902000000"
         },
         {
             "fiscalDateEnding": "2015-06-30",
@@ -1866,7 +1866,7 @@
         {
             "fiscalDateEnding": "2015-03-31",
             "reportedCurrency": "USD",
-            "operatingCashflow": "9570000000",
+            "operatingCashflow": "9601000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
@@ -1877,7 +1877,7 @@
             "changeInInventory": "-430000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-5481000000",
-            "cashflowFromFinancing": "-3065000000",
+            "cashflowFromFinancing": "-3096000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
