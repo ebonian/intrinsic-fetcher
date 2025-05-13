@@ -415,7 +415,7 @@
             "depreciation": "None",
             "depreciationAndAmortization": "50250000",
             "incomeBeforeTax": "-25811000",
-            "incomeTaxExpense": "2053999",
+            "incomeTaxExpense": "2054000",
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "-27865000",
             "comprehensiveIncomeNetOfTax": "None",
@@ -447,8 +447,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "-23535000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "-21143001",
-            "ebitda": "12756999",
+            "ebit": "-21143000",
+            "ebitda": "12757000",
             "netIncome": "-23535000"
         },
         {
@@ -1021,7 +1021,7 @@
             "operatingIncome": "-20485000",
             "sellingGeneralAndAdministrative": "19529000",
             "researchAndDevelopment": "13023000",
-            "operatingExpenses": "55617999",
+            "operatingExpenses": "55618000",
             "investmentIncomeNet": "None",
             "netInterestIncome": "None",
             "interestIncome": "None",
