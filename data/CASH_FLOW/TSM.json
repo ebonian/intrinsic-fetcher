@@ -12,7 +12,7 @@
             "depreciationDepletionAndAmortization": "662796000000",
             "capitalExpenditures": "956007000000",
             "changeInReceivables": "None",
-            "changeInInventory": "None",
+            "changeInInventory": "-36871700000",
             "profitLoss": "None",
             "cashflowFromInvestment": "None",
             "cashflowFromFinancing": "-346301000000",
@@ -625,7 +625,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-03-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "operatingCashflow": "625570000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",

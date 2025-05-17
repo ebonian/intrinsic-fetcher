@@ -14,8 +14,8 @@
             "operatingExpenses": "302301000000",
             "investmentIncomeNet": "None",
             "netInterestIncome": "76718000000",
-            "interestIncome": "None",
-            "interestExpense": "None",
+            "interestIncome": "87213400000",
+            "interestExpense": "10495400000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
             "depreciation": "None",
@@ -565,7 +565,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-03-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "grossProfit": "493395000000",
             "totalRevenue": "839254000000",
             "costOfRevenue": "345859000000",
@@ -585,7 +585,7 @@
             "incomeBeforeTax": "430895000000",
             "incomeTaxExpense": "69331000000",
             "interestAndDebtExpense": "None",
-            "netIncomeFromContinuingOperations": "None",
+            "netIncomeFromContinuingOperations": "360732661000",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "407081000000",
             "ebitda": "570492731000",
