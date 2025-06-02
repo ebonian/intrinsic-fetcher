@@ -805,7 +805,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-04-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "totalAssets": "125254000000",
             "totalCurrentAssets": "89935000000",
             "cashAndCashEquivalentsAtCarryingValue": "15234000000",
