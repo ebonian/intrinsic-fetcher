@@ -711,7 +711,7 @@
             "costOfRevenue": "3042000000",
             "costofGoodsAndServicesSold": "3042000000",
             "operatingIncome": "342000000",
-            "sellingGeneralAndAdministrative": "-51000000",
+            "sellingGeneralAndAdministrative": "51000000",
             "researchAndDevelopment": "1511000000",
             "operatingExpenses": "2788000000",
             "investmentIncomeNet": "None",
