@@ -72,7 +72,7 @@
             "longTermDebt": "20463000000",
             "currentLongTermDebt": "None",
             "longTermDebtNoncurrent": "None",
-            "shortLongTermDebtTotal": "20463000000",
+            "shortLongTermDebtTotal": "20981000000",
             "otherCurrentLiabilities": "21223000000",
             "otherNonCurrentLiabilities": "3091000000",
             "totalShareholderEquity": "38733000000",
@@ -841,7 +841,7 @@
             "treasuryStock": "None",
             "retainedEarnings": "16518000000",
             "commonStock": "None",
-            "commonStockSharesOutstanding": "2202986500"
+            "commonStockSharesOutstanding": "1974000000"
         },
         {
             "fiscalDateEnding": "2024-12-31",
@@ -881,7 +881,7 @@
             "treasuryStock": "None",
             "retainedEarnings": "17438000000",
             "commonStock": "None",
-            "commonStockSharesOutstanding": "2029000000"
+            "commonStockSharesOutstanding": "1985000000"
         },
         {
             "fiscalDateEnding": "2024-09-30",
@@ -921,7 +921,7 @@
             "treasuryStock": "None",
             "retainedEarnings": "17289000000",
             "commonStock": "None",
-            "commonStockSharesOutstanding": "2029000000"
+            "commonStockSharesOutstanding": "2003000000"
         },
         {
             "fiscalDateEnding": "2024-06-30",
