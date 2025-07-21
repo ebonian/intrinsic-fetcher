@@ -177,7 +177,7 @@
             "costOfRevenue": "17419247000",
             "costofGoodsAndServicesSold": "17419247000",
             "operatingIncome": "-388000000",
-            "sellingGeneralAndAdministrative": "2834491000",
+            "sellingGeneralAndAdministrative": "2835000000",
             "researchAndDevelopment": "1460370000",
             "operatingExpenses": "4430000000",
             "investmentIncomeNet": "None",
@@ -666,14 +666,14 @@
             "otherNonOperatingIncome": "None",
             "depreciation": "None",
             "depreciationAndAmortization": "1246000000",
-            "incomeBeforeTax": "1553000000",
-            "incomeTaxExpense": "409000000",
+            "incomeBeforeTax": "1888000000",
+            "incomeTaxExpense": "483000000",
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "1144000000",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "1629000000",
             "ebitda": "2875000000",
-            "netIncome": "1129000000"
+            "netIncome": "1390000000"
         },
         {
             "fiscalDateEnding": "2023-12-31",
