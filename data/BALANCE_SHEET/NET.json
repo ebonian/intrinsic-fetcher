@@ -11,7 +11,7 @@
             "inventory": "None",
             "currentNetReceivables": "333321000",
             "totalNonCurrentAssets": "1032165000",
-            "propertyPlantEquipment": "None",
+            "propertyPlantEquipment": "635799000",
             "accumulatedDepreciationAmortizationPPE": "None",
             "intangibleAssets": "21865000",
             "intangibleAssetsExcludingGoodwill": "21865000",
@@ -51,7 +51,7 @@
             "inventory": "1",
             "currentNetReceivables": "259309000",
             "totalNonCurrentAssets": "776690000",
-            "propertyPlantEquipment": "None",
+            "propertyPlantEquipment": "461369000",
             "accumulatedDepreciationAmortizationPPE": "None",
             "intangibleAssets": "19564000",
             "intangibleAssetsExcludingGoodwill": "19564000",
@@ -373,7 +373,7 @@
             "inventory": "None",
             "currentNetReceivables": "286319000",
             "totalNonCurrentAssets": "1096968000",
-            "propertyPlantEquipment": "None",
+            "propertyPlantEquipment": "691957000",
             "accumulatedDepreciationAmortizationPPE": "None",
             "intangibleAssets": "23896000",
             "intangibleAssetsExcludingGoodwill": "23896000",
@@ -413,7 +413,7 @@
             "inventory": "None",
             "currentNetReceivables": "333321000",
             "totalNonCurrentAssets": "1032165000",
-            "propertyPlantEquipment": "None",
+            "propertyPlantEquipment": "635799000",
             "accumulatedDepreciationAmortizationPPE": "None",
             "intangibleAssets": "21865000",
             "intangibleAssetsExcludingGoodwill": "21865000",
@@ -453,7 +453,7 @@
             "inventory": "None",
             "currentNetReceivables": "266385000",
             "totalNonCurrentAssets": "898868000",
-            "propertyPlantEquipment": "None",
+            "propertyPlantEquipment": "548065000",
             "accumulatedDepreciationAmortizationPPE": "None",
             "intangibleAssets": "19247000",
             "intangibleAssetsExcludingGoodwill": "19247000",
@@ -1281,7 +1281,7 @@
             "treasuryStock": "None",
             "retainedEarnings": "-273551000",
             "commonStock": "294000",
-            "commonStockSharesOutstanding": "118056000"
+            "commonStockSharesOutstanding": "296758417"
         },
         {
             "fiscalDateEnding": "2019-06-30",
@@ -1481,7 +1481,7 @@
             "treasuryStock": "None",
             "retainedEarnings": "None",
             "commonStock": "None",
-            "commonStockSharesOutstanding": "78828000"
+            "commonStockSharesOutstanding": "251085000"
         },
         {
             "fiscalDateEnding": "2018-03-31",
@@ -1521,7 +1521,7 @@
             "treasuryStock": "None",
             "retainedEarnings": "None",
             "commonStock": "None",
-            "commonStockSharesOutstanding": "78678000"
+            "commonStockSharesOutstanding": "251085000"
         }
     ]
 }
