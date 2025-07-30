@@ -565,7 +565,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-06-30",
-            "reportedCurrency": "USD",
+            "reportedCurrency": "TWD",
             "grossProfit": "547369000000",
             "totalRevenue": "933792000000",
             "costOfRevenue": "386423000000",
@@ -649,7 +649,7 @@
         },
         {
             "fiscalDateEnding": "2024-09-30",
-            "reportedCurrency": "USD",
+            "reportedCurrency": "TWD",
             "grossProfit": "439345666000",
             "totalRevenue": "759692143000",
             "costOfRevenue": "320346477000",
@@ -677,7 +677,7 @@
         },
         {
             "fiscalDateEnding": "2024-06-30",
-            "reportedCurrency": "USD",
+            "reportedCurrency": "TWD",
             "grossProfit": "358124478000",
             "totalRevenue": "673510177000",
             "costOfRevenue": "315385699000",
