@@ -719,7 +719,7 @@
         {
             "fiscalDateEnding": "2024-09-30",
             "reportedCurrency": "TWD",
-            "operatingCashflow": "412449622000",
+            "operatingCashflow": "391992467000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
@@ -729,7 +729,7 @@
             "changeInReceivables": "None",
             "changeInInventory": "-20393343000",
             "profitLoss": "None",
-            "cashflowFromInvestment": "-225808068000",
+            "cashflowFromInvestment": "-195509921000",
             "cashflowFromFinancing": "-83638287000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
