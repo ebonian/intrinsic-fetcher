@@ -666,14 +666,14 @@
             "otherNonOperatingIncome": "None",
             "depreciation": "None",
             "depreciationAndAmortization": "1278000000",
-            "incomeBeforeTax": "1887000000",
-            "incomeTaxExpense": "393000000",
+            "incomeBeforeTax": "1787000000",
+            "incomeTaxExpense": "371000000",
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "1494000000",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "1973000000",
             "ebitda": "3251000000",
-            "netIncome": "1478000000"
+            "netIncome": "1400000000"
         },
         {
             "fiscalDateEnding": "2024-03-31",
