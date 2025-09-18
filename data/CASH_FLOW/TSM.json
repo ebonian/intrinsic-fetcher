@@ -634,7 +634,7 @@
             "depreciationDepletionAndAmortization": "363197000000",
             "capitalExpenditures": "628053000000",
             "changeInReceivables": "None",
-            "changeInInventory": "None",
+            "changeInInventory": "-10806101000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-518681000000",
             "cashflowFromFinancing": "-204366000000",
