@@ -566,14 +566,14 @@
         {
             "fiscalDateEnding": "2025-06-30",
             "reportedCurrency": "USD",
-            "grossProfit": "7882000000",
+            "grossProfit": "8199000000",
             "totalRevenue": "10172000000",
-            "costOfRevenue": "2290000000",
-            "costofGoodsAndServicesSold": "2290000000",
+            "costOfRevenue": "1973000000",
+            "costofGoodsAndServicesSold": "1973000000",
             "operatingIncome": "6177000000",
             "sellingGeneralAndAdministrative": "669000000",
             "researchAndDevelopment": "None",
-            "operatingExpenses": "3771000000",
+            "operatingExpenses": "2022000000",
             "investmentIncomeNet": "None",
             "netInterestIncome": "-39000000",
             "interestIncome": "156000000",
@@ -589,7 +589,7 @@
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "6372000000",
             "ebitda": "6689000000",
-            "netIncome": "5219000000"
+            "netIncome": "5272000000"
         },
         {
             "fiscalDateEnding": "2025-03-31",
