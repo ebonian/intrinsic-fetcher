@@ -3,7 +3,7 @@
     "annualReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "195201000000",
             "totalRevenue": "416161000000",
             "costOfRevenue": "220960000000",
@@ -565,7 +565,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "48341000000",
             "totalRevenue": "102466000000",
             "costOfRevenue": "54125000000",
