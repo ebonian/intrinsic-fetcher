@@ -705,7 +705,7 @@
         },
         {
             "fiscalDateEnding": "2024-06-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "74192000000",
             "totalRevenue": "147977000000",
             "costOfRevenue": "73785000000",
