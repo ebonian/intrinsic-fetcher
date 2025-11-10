@@ -626,7 +626,7 @@
         {
             "fiscalDateEnding": "2025-09-30",
             "reportedCurrency": "None",
-            "operatingCashflow": "1239000000",
+            "operatingCashflow": "2159000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
@@ -634,10 +634,10 @@
             "depreciationDepletionAndAmortization": "754000000",
             "capitalExpenditures": "258000000",
             "changeInReceivables": "None",
-            "changeInInventory": "876000000",
+            "changeInInventory": "-636000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-1337000000",
-            "cashflowFromFinancing": "-347000000",
+            "cashflowFromFinancing": "-450000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
@@ -648,11 +648,11 @@
             "proceedsFromIssuanceOfCommonStock": "None",
             "proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet": "None",
             "proceedsFromIssuanceOfPreferredStock": "None",
-            "proceedsFromRepurchaseOfEquity": "1303000000",
+            "proceedsFromRepurchaseOfEquity": "-89000000",
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "1347000000"
+            "netIncome": "1172000000"
         },
         {
             "fiscalDateEnding": "2025-06-30",
