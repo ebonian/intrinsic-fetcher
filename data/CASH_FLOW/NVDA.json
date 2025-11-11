@@ -601,9 +601,9 @@
             "depreciationDepletionAndAmortization": "97977000",
             "capitalExpenditures": "79600000",
             "changeInReceivables": "None",
-            "changeInInventory": "60726000",
+            "changeInInventory": "60916000",
             "profitLoss": "None",
-            "cashflowFromInvestment": "None",
+            "cashflowFromInvestment": "-41787000",
             "cashflowFromFinancing": "-61377000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
@@ -619,7 +619,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "302586000"
+            "netIncome": "301176000"
         }
     ],
     "quarterlyReports": [
