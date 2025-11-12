@@ -805,7 +805,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "EUR",
             "totalAssets": "45097100000",
             "totalCurrentAssets": "25146300000",
             "cashAndCashEquivalentsAtCarryingValue": "5126500000",
@@ -819,7 +819,7 @@
             "intangibleAssetsExcludingGoodwill": "555700000",
             "goodwill": "4588600000",
             "investments": "None",
-            "longTermInvestments": "None",
+            "longTermInvestments": "2336200000",
             "shortTermInvestments": "1700000",
             "otherCurrentAssets": "1575100000",
             "otherNonCurrentAssets": "None",
@@ -831,7 +831,7 @@
             "shortTermDebt": "None",
             "totalNonCurrentLiabilities": "6878700000",
             "capitalLeaseObligations": "None",
-            "longTermDebt": "None",
+            "longTermDebt": "2704700000",
             "currentLongTermDebt": "None",
             "longTermDebtNoncurrent": "None",
             "shortLongTermDebtTotal": "2704700000",

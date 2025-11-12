@@ -3,7 +3,7 @@
     "annualReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "operatingCashflow": "23059000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
@@ -625,7 +625,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "operatingCashflow": "6238000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",

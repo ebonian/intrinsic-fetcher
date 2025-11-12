@@ -3,7 +3,7 @@
     "annualReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "30925000000",
             "totalRevenue": "40000000000",
             "costOfRevenue": "9075000000",
@@ -13,7 +13,7 @@
             "researchAndDevelopment": "None",
             "operatingExpenses": "4369000000",
             "investmentIncomeNet": "None",
-            "netInterestIncome": "None",
+            "netInterestIncome": "-589000000",
             "interestIncome": "None",
             "interestExpense": "589000000",
             "nonInterestIncome": "None",
@@ -23,7 +23,7 @@
             "incomeBeforeTax": "24194000000",
             "incomeTaxExpense": "4136000000",
             "interestAndDebtExpense": "None",
-            "netIncomeFromContinuingOperations": "None",
+            "netIncomeFromContinuingOperations": "20058000000",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "24783000000",
             "ebitda": "26003000000",
@@ -565,7 +565,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "8427000000",
             "totalRevenue": "10724000000",
             "costOfRevenue": "2297000000",
@@ -575,7 +575,7 @@
             "researchAndDevelopment": "None",
             "operatingExpenses": "1376000000",
             "investmentIncomeNet": "None",
-            "netInterestIncome": "None",
+            "netInterestIncome": "-210000000",
             "interestIncome": "None",
             "interestExpense": "210000000",
             "nonInterestIncome": "None",
@@ -585,7 +585,7 @@
             "incomeBeforeTax": "6223000000",
             "incomeTaxExpense": "1133000000",
             "interestAndDebtExpense": "None",
-            "netIncomeFromContinuingOperations": "None",
+            "netIncomeFromContinuingOperations": "5090000000",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "6433000000",
             "ebitda": "6749000000",
