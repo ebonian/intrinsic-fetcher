@@ -805,7 +805,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "totalAssets": "7354107000000",
             "totalCurrentAssets": "3436015000000",
             "cashAndCashEquivalentsAtCarryingValue": "2470759000000",
@@ -819,7 +819,7 @@
             "intangibleAssetsExcludingGoodwill": "None",
             "goodwill": "None",
             "investments": "None",
-            "longTermInvestments": "None",
+            "longTermInvestments": "148980000000",
             "shortTermInvestments": "280297000000",
             "otherCurrentAssets": "88456000000",
             "otherNonCurrentAssets": "None",

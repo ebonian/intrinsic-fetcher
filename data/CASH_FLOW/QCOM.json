@@ -3,7 +3,7 @@
     "annualReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "operatingCashflow": "14012000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
@@ -625,13 +625,13 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "operatingCashflow": "3996000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "None",
+            "depreciationDepletionAndAmortization": "371000000",
             "capitalExpenditures": "407000000",
             "changeInReceivables": "None",
             "changeInInventory": "-171000000",

@@ -257,7 +257,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "415711000",
             "totalRevenue": "562027000",
             "costOfRevenue": "146316000",
@@ -267,8 +267,8 @@
             "researchAndDevelopment": "120956000",
             "operatingExpenses": "453171000",
             "investmentIncomeNet": "None",
-            "netInterestIncome": "None",
-            "interestIncome": "None",
+            "netInterestIncome": "39617000",
+            "interestIncome": "42529000",
             "interestExpense": "2912000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
@@ -277,7 +277,7 @@
             "incomeBeforeTax": "1850000",
             "incomeTaxExpense": "3140000",
             "interestAndDebtExpense": "None",
-            "netIncomeFromContinuingOperations": "None",
+            "netIncomeFromContinuingOperations": "-1290000",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "-18055000",
             "ebitda": "61405000",

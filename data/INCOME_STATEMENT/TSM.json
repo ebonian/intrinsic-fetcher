@@ -565,7 +565,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "grossProfit": "588543000000",
             "totalRevenue": "989918000000",
             "costOfRevenue": "401375000000",
@@ -585,10 +585,10 @@
             "incomeBeforeTax": "525369000000",
             "incomeTaxExpense": "73614000000",
             "interestAndDebtExpense": "None",
-            "netIncomeFromContinuingOperations": "None",
+            "netIncomeFromContinuingOperations": "525369000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "500685000000",
-            "ebitda": "663472000000",
+            "ebit": "525369000000",
+            "ebitda": "688156000000",
             "netIncome": "452302000000"
         },
         {
