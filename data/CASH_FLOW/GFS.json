@@ -30,7 +30,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "-265000000"
+            "netIncome": "-262000000"
         },
         {
             "fiscalDateEnding": "2023-12-31",
@@ -61,7 +61,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "1020000000"
+            "netIncome": "1018000000"
         },
         {
             "fiscalDateEnding": "2022-12-31",
@@ -102,10 +102,10 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "1619000000",
-            "capitalExpenditures": "1766000000",
+            "depreciationDepletionAndAmortization": "1618000000",
+            "capitalExpenditures": "1767000000",
             "changeInReceivables": "None",
-            "changeInInventory": "-201732000",
+            "changeInInventory": "-202000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-1450000000",
             "cashflowFromFinancing": "650000000",
@@ -221,6 +221,37 @@
     ],
     "quarterlyReports": [
         {
+            "fiscalDateEnding": "2025-09-30",
+            "reportedCurrency": "USD",
+            "operatingCashflow": "595000000",
+            "paymentsForOperatingActivities": "None",
+            "proceedsFromOperatingActivities": "None",
+            "changeInOperatingLiabilities": "None",
+            "changeInOperatingAssets": "None",
+            "depreciationDepletionAndAmortization": "314000000",
+            "capitalExpenditures": "189000000",
+            "changeInReceivables": "None",
+            "changeInInventory": "81000000",
+            "profitLoss": "None",
+            "cashflowFromInvestment": "-329000000",
+            "cashflowFromFinancing": "-40000000",
+            "proceedsFromRepaymentsOfShortTermDebt": "None",
+            "paymentsForRepurchaseOfCommonStock": "None",
+            "paymentsForRepurchaseOfEquity": "None",
+            "paymentsForRepurchaseOfPreferredStock": "None",
+            "dividendPayout": "None",
+            "dividendPayoutCommonStock": "None",
+            "dividendPayoutPreferredStock": "None",
+            "proceedsFromIssuanceOfCommonStock": "None",
+            "proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet": "None",
+            "proceedsFromIssuanceOfPreferredStock": "None",
+            "proceedsFromRepurchaseOfEquity": "-3000000",
+            "proceedsFromSaleOfTreasuryStock": "None",
+            "changeInCashAndCashEquivalents": "None",
+            "changeInExchangeRate": "None",
+            "netIncome": "249000000"
+        },
+        {
             "fiscalDateEnding": "2025-06-30",
             "reportedCurrency": "USD",
             "operatingCashflow": "431000000",
@@ -311,7 +342,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "-730000000"
+            "netIncome": "-729000000"
         },
         {
             "fiscalDateEnding": "2024-09-30",
