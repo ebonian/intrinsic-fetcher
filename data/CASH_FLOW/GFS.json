@@ -128,18 +128,18 @@
         {
             "fiscalDateEnding": "2020-12-31",
             "reportedCurrency": "USD",
-            "operatingCashflow": "1005897000",
+            "operatingCashflow": "1004000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "2522514000",
-            "capitalExpenditures": "592488000",
+            "depreciationDepletionAndAmortization": "2522000000",
+            "capitalExpenditures": "592000000",
             "changeInReceivables": "None",
-            "changeInInventory": "-559876000",
+            "changeInInventory": "-560000000",
             "profitLoss": "None",
-            "cashflowFromInvestment": "-366165000",
-            "cashflowFromFinancing": "-732743000",
+            "cashflowFromInvestment": "-366000000",
+            "cashflowFromFinancing": "-733000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
@@ -154,7 +154,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "-1350860000"
+            "netIncome": "-1353000000"
         },
         {
             "fiscalDateEnding": "2019-12-31",
@@ -353,7 +353,7 @@
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
             "depreciationDepletionAndAmortization": "396000000",
-            "capitalExpenditures": "109000000",
+            "capitalExpenditures": "162000000",
             "changeInReceivables": "None",
             "changeInInventory": "-17000000",
             "profitLoss": "None",
@@ -373,7 +373,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "177000000"
+            "netIncome": "178000000"
         },
         {
             "fiscalDateEnding": "2024-06-30",
@@ -415,7 +415,7 @@
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
             "depreciationDepletionAndAmortization": "392000000",
-            "capitalExpenditures": "227000000",
+            "capitalExpenditures": "229000000",
             "changeInReceivables": "None",
             "changeInInventory": "-180000000",
             "profitLoss": "None",
@@ -435,7 +435,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "133000000"
+            "netIncome": "134000000"
         },
         {
             "fiscalDateEnding": "2023-12-31",
@@ -446,7 +446,7 @@
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
             "depreciationDepletionAndAmortization": "402000000",
-            "capitalExpenditures": "305000000",
+            "capitalExpenditures": "228000000",
             "changeInReceivables": "None",
             "changeInInventory": "22000000",
             "profitLoss": "None",
@@ -466,7 +466,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "279000000"
+            "netIncome": "278000000"
         },
         {
             "fiscalDateEnding": "2023-09-30",
@@ -477,12 +477,12 @@
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
             "depreciationDepletionAndAmortization": "366000000",
-            "capitalExpenditures": "324000000",
+            "capitalExpenditures": "246000000",
             "changeInReceivables": "None",
             "changeInInventory": "-5000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-313000000",
-            "cashflowFromFinancing": "-54000000",
+            "cashflowFromFinancing": "-53000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
@@ -508,12 +508,12 @@
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
             "depreciationDepletionAndAmortization": "340000000",
-            "capitalExpenditures": "400000000",
+            "capitalExpenditures": "399000000",
             "changeInReceivables": "None",
             "changeInInventory": "-81000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-888000000",
-            "cashflowFromFinancing": "-82000000",
+            "cashflowFromFinancing": "-81000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
@@ -621,7 +621,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "336000000"
+            "netIncome": "337000000"
         },
         {
             "fiscalDateEnding": "2022-06-30",
@@ -688,15 +688,15 @@
         {
             "fiscalDateEnding": "2021-12-31",
             "reportedCurrency": "USD",
-            "operatingCashflow": "1148000000",
+            "operatingCashflow": "1147000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "419000000",
+            "depreciationDepletionAndAmortization": "418000000",
             "capitalExpenditures": "649000000",
             "changeInReceivables": "None",
-            "changeInInventory": "-43732000",
+            "changeInInventory": "-44000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-626000000",
             "cashflowFromFinancing": "1399000000",
@@ -714,18 +714,18 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "43000000"
+            "netIncome": "42000000"
         },
         {
             "fiscalDateEnding": "2021-09-30",
             "reportedCurrency": "USD",
-            "operatingCashflow": "1109000000",
+            "operatingCashflow": "1110000000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "415000000",
-            "capitalExpenditures": "392000000",
+            "depreciationDepletionAndAmortization": "416000000",
+            "capitalExpenditures": "393000000",
             "changeInReceivables": "None",
             "changeInInventory": "-72000000",
             "profitLoss": "None",
@@ -745,7 +745,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "5000000"
+            "netIncome": "6000000"
         },
         {
             "fiscalDateEnding": "2021-06-30",
@@ -755,13 +755,13 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "408000000",
+            "depreciationDepletionAndAmortization": "407000000",
             "capitalExpenditures": "423000000",
             "changeInReceivables": "None",
-            "changeInInventory": "-54801000",
+            "changeInInventory": "-55000000",
             "profitLoss": "None",
-            "cashflowFromInvestment": "-206000000",
-            "cashflowFromFinancing": "-63000000",
+            "cashflowFromInvestment": "-205000000",
+            "cashflowFromFinancing": "-62000000",
             "proceedsFromRepaymentsOfShortTermDebt": "None",
             "paymentsForRepurchaseOfCommonStock": "None",
             "paymentsForRepurchaseOfEquity": "None",
@@ -776,7 +776,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "-174000000"
+            "netIncome": "-173000000"
         },
         {
             "fiscalDateEnding": "2021-03-31",
