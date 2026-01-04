@@ -631,7 +631,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "162787000000",
+            "depreciationDepletionAndAmortization": "162787271000",
             "capitalExpenditures": "287452000000",
             "changeInReceivables": "None",
             "changeInInventory": "15504653000",
@@ -652,7 +652,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "452302000000"
+            "netIncome": "525369023000"
         },
         {
             "fiscalDateEnding": "2025-06-30",
@@ -807,7 +807,7 @@
             "proceedsFromSaleOfTreasuryStock": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "247845528000"
+            "netIncome": "306310575000"
         },
         {
             "fiscalDateEnding": "2024-03-31",
