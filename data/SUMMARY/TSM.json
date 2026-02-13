@@ -3,7 +3,7 @@
     "annualReports": [
         {
             "fiscalDateEnding": "2025-12-31",
-            "reportedCurrency": "USD",
+            "reportedCurrency": "TWD",
             "grossProfit": "2304925301000",
             "totalRevenue": "3848510949000",
             "costOfRevenue": "1543585648000",
@@ -1809,7 +1809,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-12-31",
-            "reportedCurrency": "USD",
+            "reportedCurrency": "TWD",
             "grossProfit": "658148926000",
             "totalRevenue": "1055976591000",
             "costOfRevenue": "397827665000",
