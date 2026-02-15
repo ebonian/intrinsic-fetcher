@@ -3,7 +3,7 @@
     "annualReports": [
         {
             "fiscalDateEnding": "2025-12-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "1615412000",
             "totalRevenue": "2167937000",
             "costOfRevenue": "552525000",
@@ -14,7 +14,7 @@
             "operatingExpenses": "1822617000",
             "investmentIncomeNet": "None",
             "netInterestIncome": "None",
-            "interestIncome": "None",
+            "interestIncome": "122453000",
             "interestExpense": "8766000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
@@ -843,7 +843,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2025-12-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "452551000",
             "totalRevenue": "614507000",
             "costOfRevenue": "161956000",
@@ -854,7 +854,7 @@
             "operatingExpenses": "501785000",
             "investmentIncomeNet": "None",
             "netInterestIncome": "None",
-            "interestIncome": "None",
+            "interestIncome": "38998000",
             "interestExpense": "2887000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
