@@ -9,7 +9,7 @@
             "costOfRevenue": "220960000000",
             "costofGoodsAndServicesSold": "220960000000",
             "operatingIncome": "133050000000",
-            "sellingGeneralAndAdministrative": "27601000000",
+            "sellingGeneralAndAdministrative": "8077000000",
             "researchAndDevelopment": "34550000000",
             "operatingExpenses": "62151000000",
             "investmentIncomeNet": "None",
@@ -571,7 +571,7 @@
             "costOfRevenue": "74525000000",
             "costofGoodsAndServicesSold": "74525000000",
             "operatingIncome": "50852000000",
-            "sellingGeneralAndAdministrative": "7492000000",
+            "sellingGeneralAndAdministrative": "2095000000",
             "researchAndDevelopment": "10887000000",
             "operatingExpenses": "18379000000",
             "investmentIncomeNet": "None",
@@ -643,8 +643,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "23434000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "28202000000",
-            "ebitda": "31032000000",
+            "ebit": "28031000000",
+            "ebitda": "30861000000",
             "netIncome": "23434000000"
         },
         {
@@ -671,8 +671,8 @@
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "24780000000",
             "comprehensiveIncomeNetOfTax": "None",
-            "ebit": "29589000000",
-            "ebitda": "32250000000",
+            "ebit": "29310000000",
+            "ebitda": "31971000000",
             "netIncome": "24780000000"
         },
         {
