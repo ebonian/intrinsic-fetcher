@@ -72,7 +72,7 @@
             "depreciationDepletionAndAmortization": "695223798000",
             "capitalExpenditures": "1285591558000",
             "changeInReceivables": "None",
-            "changeInInventory": "None",
+            "changeInInventory": "-240675000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-1260209326000",
             "cashflowFromFinancing": "-425579261000",
@@ -86,8 +86,9 @@
             "proceedsFromIssuanceOfCommonStock": "None",
             "proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet": "None",
             "proceedsFromIssuanceOfPreferredStock": "None",
-            "proceedsFromRepurchaseOfEquity": "None",
+            "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1246070000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -178,6 +179,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-3089177000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1646205000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -268,6 +270,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "544379000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -358,6 +361,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-871566000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "302348000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -448,6 +452,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "7788000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -538,6 +543,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-7269000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "6612000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -628,6 +634,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-4006000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "2818000",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -718,6 +725,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -808,6 +816,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -898,6 +907,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -988,6 +998,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "33891000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -1078,6 +1089,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "47000000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -1168,6 +1180,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "124600000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "5312000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -1258,6 +1271,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "6219000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -1348,6 +1362,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-71600000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -1438,6 +1453,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -1528,6 +1544,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -1618,6 +1635,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-33572036000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -1708,6 +1726,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-45404422000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -1798,6 +1817,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         }
@@ -1874,7 +1894,7 @@
             "depreciationDepletionAndAmortization": "163644120000",
             "capitalExpenditures": "353555370000",
             "changeInReceivables": "None",
-            "changeInInventory": "None",
+            "changeInInventory": "579578000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-389670183000",
             "cashflowFromFinancing": "-100932535000",
@@ -1888,8 +1908,9 @@
             "proceedsFromIssuanceOfCommonStock": "None",
             "proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet": "None",
             "proceedsFromIssuanceOfPreferredStock": "None",
-            "proceedsFromRepurchaseOfEquity": "None",
+            "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "173007000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -1980,6 +2001,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "273416000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2070,6 +2092,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "344406000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2160,6 +2183,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-23000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "396699000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2250,6 +2274,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "177000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "396699000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2340,6 +2365,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "177000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "322961000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2430,6 +2456,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-3089177000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "230956000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2520,6 +2547,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-3089000000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "181831000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2610,6 +2638,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "127299000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2700,6 +2729,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "127349000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2790,6 +2820,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "127580000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2880,6 +2911,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-34000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "80309000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -2970,6 +3002,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-34000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "80309000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3060,6 +3093,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-871566000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "80290000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3150,6 +3184,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-871566000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "114348000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3240,6 +3275,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-871566000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "27453000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3330,6 +3366,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1793000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3420,6 +3457,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "2607000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3510,6 +3548,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1750000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3600,6 +3639,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1704000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3690,6 +3730,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1727000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3780,6 +3821,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1873000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3870,6 +3912,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1590000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -3960,6 +4003,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1410000",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -4050,6 +4094,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "1394000",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -4140,6 +4185,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -4230,6 +4276,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -4320,6 +4367,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -4410,6 +4458,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -4500,6 +4549,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "0",
             "changeInExchangeRate": "0"
         },
@@ -4590,6 +4640,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "0",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -4680,6 +4731,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -4770,6 +4822,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-3800000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -4860,6 +4913,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -4950,6 +5004,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5040,6 +5095,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5130,6 +5186,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-7300000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5220,6 +5277,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5310,6 +5368,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5400,6 +5459,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5490,6 +5550,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "33900000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5580,6 +5641,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5670,6 +5732,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5760,6 +5823,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5850,6 +5914,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "47000000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -5940,6 +6005,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6030,6 +6096,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6120,6 +6187,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "-12000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6210,6 +6278,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "124600000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "-12000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6300,6 +6369,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6390,6 +6460,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "2611000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6480,6 +6551,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "2701000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6570,6 +6642,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "2828000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6660,6 +6733,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "3372000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6750,6 +6824,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6840,6 +6915,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-2000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -6930,6 +7006,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-2000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7020,6 +7097,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7110,6 +7188,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7200,6 +7279,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7290,6 +7370,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7380,6 +7461,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7470,6 +7552,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7560,6 +7643,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7650,6 +7734,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7740,6 +7825,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7830,6 +7916,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -7920,6 +8007,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-178287186",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8010,6 +8098,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-178287186",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8100,6 +8189,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-23737464199.78",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8190,6 +8280,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-6602700000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8280,6 +8371,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-3053584000",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8370,6 +8462,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8460,6 +8553,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8550,6 +8644,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8640,6 +8735,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8730,6 +8826,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8820,6 +8917,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -8910,6 +9008,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -9000,6 +9099,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         },
@@ -9090,6 +9190,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
+            "stockBasedCompensation": "None",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None"
         }
