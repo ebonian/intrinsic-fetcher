@@ -1125,7 +1125,7 @@
         },
         {
             "fiscalDateEnding": "2018-06-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "34916000",
             "totalRevenue": "45281000",
             "costOfRevenue": "10365000",
@@ -1153,7 +1153,7 @@
         },
         {
             "fiscalDateEnding": "2018-03-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "32817000",
             "totalRevenue": "41824000",
             "costOfRevenue": "9007000",
