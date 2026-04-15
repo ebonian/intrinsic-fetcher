@@ -845,7 +845,7 @@
         },
         {
             "fiscalDateEnding": "2020-06-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "-180312500",
             "totalRevenue": "1348741500",
             "costOfRevenue": "1529054000",
@@ -873,7 +873,7 @@
         },
         {
             "fiscalDateEnding": "2020-03-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "-180312500",
             "totalRevenue": "1348741500",
             "costOfRevenue": "1529054000",
