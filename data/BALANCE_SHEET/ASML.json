@@ -811,7 +811,7 @@
             "cashAndCashEquivalentsAtCarryingValue": "7970400000",
             "cashAndShortTermInvestments": "7970400000",
             "inventory": "11711200000",
-            "currentNetReceivables": "4402900000",
+            "currentNetReceivables": "5910000000",
             "totalNonCurrentAssets": "20476700000",
             "propertyPlantEquipment": "None",
             "accumulatedDepreciationAmortizationPPE": "None",
@@ -834,14 +834,14 @@
             "longTermDebt": "2705600000",
             "currentLongTermDebt": "None",
             "longTermDebtNoncurrent": "None",
-            "shortLongTermDebtTotal": "None",
+            "shortLongTermDebtTotal": "2705600000",
             "otherCurrentLiabilities": "20288000000",
             "otherNonCurrentLiabilities": "None",
             "totalShareholderEquity": "20829500000",
             "treasuryStock": "None",
             "retainedEarnings": "None",
             "commonStock": "None",
-            "commonStockSharesOutstanding": "385417665"
+            "commonStockSharesOutstanding": "385700000"
         },
         {
             "fiscalDateEnding": "2025-12-31",
