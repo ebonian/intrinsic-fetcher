@@ -843,7 +843,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2026-03-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "USD",
             "grossProfit": "455597000",
             "totalRevenue": "639755000",
             "costOfRevenue": "184158000",
@@ -853,8 +853,8 @@
             "researchAndDevelopment": "150972000",
             "operatingExpenses": "517591000",
             "investmentIncomeNet": "None",
-            "netInterestIncome": "None",
-            "interestIncome": "None",
+            "netInterestIncome": "37603000",
+            "interestIncome": "40166000",
             "interestExpense": "2563000",
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
@@ -863,7 +863,7 @@
             "incomeBeforeTax": "-21401000",
             "incomeTaxExpense": "1526000",
             "interestAndDebtExpense": "None",
-            "netIncomeFromContinuingOperations": "None",
+            "netIncomeFromContinuingOperations": "-22927000",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "-61571000",
             "ebitda": "27223000",
