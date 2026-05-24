@@ -9133,7 +9133,7 @@
         },
         {
             "fiscalDateEnding": "2026-03-31",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "totalAssets": "8659053639000",
             "totalCurrentAssets": "4264578044000",
             "cashAndCashEquivalentsAtCarryingValue": "3034972331000",
@@ -9178,7 +9178,7 @@
             "depreciationDepletionAndAmortization": "167159893000",
             "capitalExpenditures": "354388067000",
             "changeInReceivables": "None",
-            "changeInInventory": "None",
+            "changeInInventory": "-23343974000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-388616190000",
             "cashflowFromFinancing": "-118373857000",
@@ -9194,7 +9194,7 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "None",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "stockBasedCompensation": "None",
+            "stockBasedCompensation": "113979000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
             "netIncome": "578396469000"
