@@ -28,10 +28,10 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-5000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "stockBasedCompensation": "205000000",
+            "stockBasedCompensation": "200000000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "885000000"
+            "netIncome": "888000000"
         },
         {
             "fiscalDateEnding": "2024-12-31",
@@ -284,7 +284,7 @@
             "proceedsFromIssuanceOfCommonStock": "None",
             "proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet": "None",
             "proceedsFromIssuanceOfPreferredStock": "None",
-            "proceedsFromRepurchaseOfEquity": "-430000000",
+            "proceedsFromRepurchaseOfEquity": "-400000000",
             "proceedsFromSaleOfTreasuryStock": "None",
             "stockBasedCompensation": "60000000",
             "changeInCashAndCashEquivalents": "None",
@@ -302,7 +302,7 @@
             "depreciationDepletionAndAmortization": "313000000",
             "capitalExpenditures": "208000000",
             "changeInReceivables": "None",
-            "changeInInventory": "8000000",
+            "changeInInventory": "89000000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-527000000",
             "cashflowFromFinancing": "-53000000",
@@ -318,10 +318,10 @@
             "proceedsFromIssuanceOfPreferredStock": "None",
             "proceedsFromRepurchaseOfEquity": "-2000000",
             "proceedsFromSaleOfTreasuryStock": "None",
-            "stockBasedCompensation": "58000000",
+            "stockBasedCompensation": "53000000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "199000000"
+            "netIncome": "200000000"
         },
         {
             "fiscalDateEnding": "2025-09-30",
@@ -524,7 +524,7 @@
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
             "depreciationDepletionAndAmortization": "392000000",
-            "capitalExpenditures": "229000000",
+            "capitalExpenditures": "196000000",
             "changeInReceivables": "None",
             "changeInInventory": "-180000000",
             "profitLoss": "None",
@@ -737,7 +737,7 @@
             "stockBasedCompensation": "33000000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "337000000"
+            "netIncome": "336000000"
         },
         {
             "fiscalDateEnding": "2022-06-30",
@@ -875,10 +875,10 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "407000000",
+            "depreciationDepletionAndAmortization": "408000000",
             "capitalExpenditures": "423000000",
             "changeInReceivables": "None",
-            "changeInInventory": "-55000000",
+            "changeInInventory": "-54801000",
             "profitLoss": "None",
             "cashflowFromInvestment": "-205000000",
             "cashflowFromFinancing": "-62000000",
@@ -897,7 +897,7 @@
             "stockBasedCompensation": "143775000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "-173000000"
+            "netIncome": "-174000000"
         },
         {
             "fiscalDateEnding": "2021-03-31",
