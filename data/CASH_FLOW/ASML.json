@@ -9,7 +9,7 @@
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "985410490",
+            "depreciationDepletionAndAmortization": "1025900000",
             "capitalExpenditures": "1511494250",
             "changeInReceivables": "None",
             "changeInInventory": "-832500000",
@@ -31,7 +31,7 @@
             "stockBasedCompensation": "202300000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "9230142866"
+            "netIncome": "9609400000"
         },
         {
             "fiscalDateEnding": "2024-12-31",
@@ -710,12 +710,12 @@
         {
             "fiscalDateEnding": "2025-12-31",
             "reportedCurrency": "EUR",
-            "operatingCashflow": "11008488366",
+            "operatingCashflow": "11410300000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
             "changeInOperatingLiabilities": "None",
             "changeInOperatingAssets": "None",
-            "depreciationDepletionAndAmortization": "252806900",
+            "depreciationDepletionAndAmortization": "268700000",
             "capitalExpenditures": "437700021",
             "changeInReceivables": "None",
             "changeInInventory": "None",
@@ -737,7 +737,7 @@
             "stockBasedCompensation": "55600000",
             "changeInCashAndCashEquivalents": "None",
             "changeInExchangeRate": "None",
-            "netIncome": "2812972084"
+            "netIncome": "2839600000"
         },
         {
             "fiscalDateEnding": "2025-09-30",
