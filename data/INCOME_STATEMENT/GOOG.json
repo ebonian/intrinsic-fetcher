@@ -609,14 +609,14 @@
             "nonInterestIncome": "None",
             "otherNonOperatingIncome": "None",
             "depreciation": "None",
-            "depreciationAndAmortization": "4487000000",
+            "depreciationAndAmortization": "6482000000",
             "incomeBeforeTax": "77412000000",
             "incomeTaxExpense": "14834000000",
             "interestAndDebtExpense": "None",
             "netIncomeFromContinuingOperations": "62578000000",
             "comprehensiveIncomeNetOfTax": "None",
             "ebit": "77446000000",
-            "ebitda": "81933000000",
+            "ebitda": "83928000000",
             "netIncome": "62578000000"
         },
         {
