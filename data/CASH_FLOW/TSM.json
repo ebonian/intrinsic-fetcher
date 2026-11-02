@@ -645,7 +645,7 @@
     "quarterlyReports": [
         {
             "fiscalDateEnding": "2026-09-30",
-            "reportedCurrency": "None",
+            "reportedCurrency": "TWD",
             "operatingCashflow": "951760269000",
             "paymentsForOperatingActivities": "None",
             "proceedsFromOperatingActivities": "None",
